@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Analyzing the Equity of NYC Cultural Affairs' Grants",
+  "short_name": "AnalyzingtheEquityofNYCCulturalAffairs'Grants",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
