@@ -28,9 +28,10 @@ twitter_username: jekyllrb
 github_username:  aeridona
 
 # Build settings
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
